@@ -1,14 +1,18 @@
 {
-  "name": "default-eslint",
+  "name": "@markbarton/default-eslint",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "eslint-config.js",
   "peerDependencies": {
     "eslint": "^7.0.0"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/markbarton/default-eslint.git"
+  },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^8.3.0",
     "@typescript-eslint/parser": "^8.3.0",
